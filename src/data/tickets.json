@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Wi-Fi Not Working",
+    "category": "Wi-Fi",
+    "status": "Open",
+    "description": "Unable to connect to network since morning."
+  },
+  {
+    "id": 2,
+    "title": "Printer Offline",
+    "category": "Printer",
+    "status": "In Progress",
+    "description": "Printer not detected by any system."
+  }
+]
